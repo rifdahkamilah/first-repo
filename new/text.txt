@@ -1,1 +1,1 @@
-this is new text edited from master.
+this is new text edited from branch 1.
