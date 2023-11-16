@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 this is new text edited from branch.
-=======
-this is new text edited.
->>>>>>> 655a04270e57b2e52b07b5de90eaf0b7ab4c9d3c
